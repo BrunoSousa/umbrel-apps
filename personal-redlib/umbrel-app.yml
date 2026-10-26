@@ -1,18 +1,23 @@
-id: "redlib"
-name: "Redlib"
-version: "0.35.1"
 manifestVersion: 1
-description: "An alternative private front-end to Reddit."
-category: "Social"
-developer: "Redlib"
-website: "https://github.com"
-submitter: "Self-Hosted"
-submissionDate: "2026-10-26"
-icon: "https://githubusercontent.com"
+id: personal-redlib
+name: RedLib
+tagline: An alternative private front-end to Reddit
+icon: https://svgur.com/i/mvA.svg
+category: Social
+version: "1.0.0"
+port: 4000
+description: An alternative private front-end to Reddit
+developer: RedLib
+website: https://umbrel.com
+submitter: RedLib
+submission: https://github.com/redlib-org/redlib
+repo: https://github.com/redlib-org/redlib
+support: https://github.com/redlib-org/redlib/issues
 gallery:
-  - "https://githubusercontent.com"
-port: 18080
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+dependencies: []
 path: ""
+defaultUsername: ""
 defaultPassword: ""
-submitterLink: "https://github.com"
-releaseNotes: "Initial release of Redlib custom package."
