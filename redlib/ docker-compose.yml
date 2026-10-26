@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  app:
+    image: "redlib/redlib:latest"
+    restart: "on-failure"
+    # Redlib listens internally on 8080. Umbrel automatically hooks into this.
+    environment:
+      - REDLIB_DEFAULT_THEME=dark
+      - REDLIB_ROBOTS_DISABLE_INDEXING=on

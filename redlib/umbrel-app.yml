@@ -1,0 +1,18 @@
+id: "redlib"
+name: "Redlib"
+version: "0.35.1"
+manifestVersion: 1
+description: "An alternative private front-end to Reddit."
+category: "Social"
+developer: "Redlib"
+website: "https://github.com"
+submitter: "Self-Hosted"
+submissionDate: "2026-10-26"
+icon: "https://githubusercontent.com"
+gallery:
+  - "https://githubusercontent.com"
+port: 18080
+path: ""
+defaultPassword: ""
+submitterLink: "https://github.com"
+releaseNotes: "Initial release of Redlib custom package."
