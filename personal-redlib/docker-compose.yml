@@ -6,7 +6,7 @@ services:
       APP_HOST: personal-redlib_app_1
       APP_PORT: 8080
   app:
-    image: "quay.io/redlib/redlib:latest"
+    image: "ghcr.io/polak14/redlib:latest"
     restart: "on-failure"
     # Redlib listens internally on 8080. Umbrel automatically hooks into this.
     environment:

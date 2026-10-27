@@ -2,13 +2,12 @@ manifestVersion: 1
 id: personal-redlib
 name: RedLib
 tagline: An alternative private front-end to Reddit
-icon: https://svgur.com/i/mvA.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redlib.svg
 category: Social
 version: "1.0.0"
 port: 4000
 description: An alternative private front-end to Reddit
 developer: RedLib
-website: https://umbrel.com
 submitter: RedLib
 submission: https://github.com/redlib-org/redlib
 repo: https://github.com/redlib-org/redlib
